@@ -1,2 +1,1 @@
-# codsoft
-Internship
+Game project 
